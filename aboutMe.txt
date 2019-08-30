@@ -1,0 +1,14 @@
+个人独立开发项目：
+
+1、职位内推管理公众号：
+（1）测试网址：
+公众号前端：cmk520zd.cn
+公众号后台：cmk520zd.cn/admin
+（2）技术栈：
+公众号前端：vue.js+vuex+vux+axios+vue-router+vue-cli3.0
+管理后台前端：react.js+react-router4.0+redux+axios+antd-design+echart+JWT
+管理后台后端：thinkphp5.1+phpmailer+wamp+mysql5.7+JWT
+（3）功能点：
+公众号前端：列表浏览、分类查询、表单提交、文件上传、登陆和邮箱绑定注册。
+管理后台前端：账号信息汇总；增删改查（岗位、岗位类型、员工账号、简历文件）；图形化数据统计、公众号图片配置、招聘流程（审核、分发、转推）。
+管理后台后端：注册登陆、身份校验（token）、文件上传管理、防sql注入和XSS、原子事务、增删改查。
